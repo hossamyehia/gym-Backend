@@ -1,9 +1,9 @@
 require('dotenv').config();
 const mysql = require('mysql2/promise');
 
-const user = encodeURIComponent('freedbtech_hossamyehia');
-const password = encodeURIComponent('databaseP@$$word132');
-const secretKey = encodeURIComponent('A5s7-8W9e')
+const user = encodeURIComponent('');
+const password = encodeURIComponent('');
+const secretKey = encodeURIComponent('')
 
 const config = {
     db: { 
